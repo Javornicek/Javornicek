@@ -1,7 +1,7 @@
 <div align="center">
   <p><strong>Partner Netuvio</strong></p>
   <img src="./assets/netuvio-logo.svg" alt="Netuvio" width="320">
-  <p>Podílím se na vývoji moderních webových aplikací, identity řešení a cloudové infrastruktury.</p>
+  <p>Podílím se na vývoji moderních webových aplikací, komunikaci s klienty a tvorbě aplikací na míru jejich potřebám.</p>
 </div>
 
 ## 📊 GitHub Stats
